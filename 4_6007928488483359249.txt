@@ -1,0 +1,5 @@
+#smtplib
+lxml
+#os
+#python
+bs4
